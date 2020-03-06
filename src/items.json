@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "name": "Frieda",
+    "picture": "images/k1.png",
+    "age": 3,
+
+    "location": "Lisco, Alabama"
+  },
+  {
+    "id": 1,
+    "name": "Gina",
+    "picture": "images/k2.png",
+    "age": 3,
+
+    "location": "Tooleville, West Virginia"
+  },
+  {
+    "id": 2,
+    "name": "Collins",
+    "picture": "images/k9.jpg",
+    "age": 2,
+
+    "location": "Freeburn, Idaho"
+  },
+  {
+    "id": 3,
+    "name": "Melissa",
+    "picture": "images/k1.png",
+    "age": 2,
+
+    "location": "Camas, Pennsylvania"
+  },
+  {
+    "id": 4,
+    "name": "Jeanine",
+    "picture": "images/k5.png",
+    "age": 2,
+
+    "location": "Gerber, South Dakota"
+  },
+  {
+    "id": 5,
+    "name": "Elvia",
+    "picture": "images/k6.png",
+    "age": 3,
+
+    "location": "Innsbrook, Illinois"
+  },
+  {
+    "id": 6,
+    "name": "Latisha",
+    "picture": "images/k7.png",
+    "age": 3,
+ 
+    "location": "Soudan, Louisiana"
+  },
+  {
+    "id": 7,
+    "name": "Coleman",
+    "picture": "images/k8.png",
+    "age": 3,
+ 
+    "location": "Jacksonwald, Palau"
+  },
+  {
+    "id": 8,
+    "name": "Nichole",
+    "picture": "images/k1.png",
+    "age": 2,
+
+    "location": "Honolulu, Hawaii"
+  },
+  {
+    "id": 9,
+    "name": "Fran",
+    "picture": "images/k2.png",
+    "age": 3,
+
+    "location": "Matheny, Utah"
+  },
+  {
+    "id": 10,
+    "name": "Leonor",
+    "picture": "images/k9.jpg",
+    "age": 2,
+
+    "location": "Tyhee, Indiana"
+  },
+  {
+    "id": 11,
+    "name": "Dean",
+    "picture": "images/k1.png",
+    "age": 3,
+
+    "location": "Windsor, Montana"
+  },
+  {
+    "id": 12,
+    "name": "Stevenson",
+    "picture": "images/k5.png",
+    "age": 3,
+
+    "location": "Kingstowne, Nevada"
+  },
+  {
+    "id": 13,
+    "name": "Kristina",
+    "picture": "images/k6.png",
+    "age": 4,
+ 
+    "location": "Sultana, Massachusetts"
+  },
+  {
+    "id": 14,
+    "name": "Ethel",
+    "picture": "images/k7.png",
+    "age": 2,
+ 
+    "location": "Broadlands, Oregon"
+  },
+  {
+    "id": 15,
+    "name": "Terry",
+    "picture": "images/k8.png",
+    "age": 2,
+ 
+    "location": "Dawn, Wisconsin"
+  }
+]
